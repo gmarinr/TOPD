@@ -1,0 +1,23 @@
+# --- Procesamiento de datos ---
+pandas>=2.0.0
+numpy>=1.23.0
+openpyxl
+pyarrow
+
+# --- Visualización ---
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.0.0
+
+# --- Machine Learning y Deep Learning ---
+scikit-learn>=1.2
+tensorflow>=2.11
+keras>=2.11
+
+# --- Jupyter y entorno interactivo ---
+jupyterlab>=3.6
+notebook
+ipykernel
+
+# --- Utilidades adicionales ---
+tqdm
